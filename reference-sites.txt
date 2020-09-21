@@ -1,0 +1,16 @@
+SOURCE REFERENCE
+1 - https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html
+2 - https://mode.com/python-tutorial/pandas-dataframe/#selecting-rows-and-columns-in-a-dataframe
+3 - https://dev.to/chanduthedev/how-to-display-all-rows-from-data-frame-using-pandas-dha
+4 - https://www.interviewqs.com/ddi_code_snippets/rows_cols_python
+5 - https://stackoverflow.com/questions/24870306/how-to-check-if-a-column-exists-in-pandas
+6 - https://stackoverflow.com/questions/24761133/pandas-check-if-row-exists-with-certain-values
+7 - https://kanoki.org/2019/04/12/pandas-how-to-get-a-cell-value-and-update-it/#:~:text=at%20%2D%20Access%20a%20single%20value,in%20a%20DataFrame%20or%20Series.&text=iat%20%2D%20Access%20a%20single%20value,in%20a%20DataFrame%20or%20Series.
+8 - https://pandas.pydata.org/docs/pandas.pdf
+9 - https://pandas.pydata.org/docs/
+10 - https://stackoverflow.com/questions/17071871/how-to-select-rows-from-a-dataframe-based-on-column-values
+11 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
+12 - https://stackoverflow.com/questions/39662149/pandas-extract-date-and-time-from-timestamp
+13 - https://www.kite.com/python/answers/how-to-filter-columns-from-a-csv-file-using-pandas-in-python#:~:text=Use%20pandas.,DataFrame%20with%20only%20those%20columns.
+14 - https://www.datacamp.com/community/tutorials/pandas-to-csv?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034358&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1010288&gclid=Cj0KCQjwwOz6BRCgARIsAKEG4FV2E1J9LwLNSWYSU1Pg2dgFwr1e_v8U23_nTv6ssap0fKhtYRzDev8aAgD5EALw_wcB
+15 - https://google.com
