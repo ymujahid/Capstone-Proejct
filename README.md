@@ -12,7 +12,7 @@ This project makes use of python programming language to enable you to explore d
 >* Text Editor like [Atom](https://atom.io) or [Sublime](https://sublimetext.com/download)
 ---
 **REFERENCE SITES**
-> You can find these [here](https://reference-sites.txt)
+> You can find these [here](reference-sites.txt)
 ---
 
 **USAGE**
@@ -23,14 +23,4 @@ This project makes use of python programming language to enable you to explore d
     - new_york_city.csv and
     - washington.csv
 >* If you are running it on Jupyter notebook, make sure that you run all the cells and not only the main function cell
---- 
-
-
-
-
-
-
-
-
-
-
+---
