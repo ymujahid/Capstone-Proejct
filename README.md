@@ -25,8 +25,8 @@ This project makes use of python programming language to enable you to explore d
 >* If you are running it on Jupyter notebook, make sure that you run all the cells and not only the main function cell
 ---
 **FILES**
-[new_york_city.csv](https://drive.google.com/file/d/13kjLpZRQl5dboZ7l7YDEU5MQigRGR__4/view?usp=sharing)
-[chicago.csv](https://drive.google.com/file/d/116HMmG--VNp6X4e6iHmRwN7NwOa_xFHy/view?usp=sharing)
-[washington.csv](https://drive.google.com/file/d/1SUly07qi5QTJ-nNRv5-CP_aVNjWJ-oXC/view?usp=sharing)
+>* [new_york_city.csv](https://drive.google.com/file/d/13kjLpZRQl5dboZ7l7YDEU5MQigRGR__4/view?usp=sharing)
+>* [chicago.csv](https://drive.google.com/file/d/116HMmG--VNp6X4e6iHmRwN7NwOa_xFHy/view?usp=sharing)
+>* [washington.csv](https://drive.google.com/file/d/1SUly07qi5QTJ-nNRv5-CP_aVNjWJ-oXC/view?usp=sharing)
 
 
